@@ -78,9 +78,14 @@ Tools > Port > [Select COM Port]
 
 # Project Demo
 ## Screenshots
+<img width="738" height="1600" alt="WhatsApp Image 2026-09-13 at 9 49 17 AM3" src="https://github.com/user-attachments/assets/0a90e3dc-5389-45a2-add1-0d901d21b44e" />
+<img width="738" height="1600" alt="WhatsApp Image 2026-09-13 at 9 49 17 AM2" src="https://github.com/user-attachments/assets/88bae3b1-78c1-4c33-baf0-89a9249722fd" />
+<img width="738" height="1600" alt="WhatsApp Image 2026-09-13 at 9 49 17 AM" src="https://github.com/user-attachments/assets/b66c40ba-33a0-47c5-8ea2-9ddfc0000666" />
+
 
 ## Video
-Link to Demo Video
+https://github.com/user-attachments/assets/75560b41-9e8a-4fcb-9ff9-5cbcff67420f
+https://github.com/user-attachments/assets/afbdb8e9-c439-49af-b6b2-f7d101953010
 
 Watch us scientifically break a perfectly good pappadam just to make an Arduino LCD print out text.
 
